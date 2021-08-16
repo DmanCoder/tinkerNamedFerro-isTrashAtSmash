@@ -1,1 +1,1 @@
-# -tinkerNamedFerro-isTrashAtSmash
+# tinkerNamedFerro-isTrashAtSmash
